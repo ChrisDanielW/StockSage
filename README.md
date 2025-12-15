@@ -1,4 +1,4 @@
-# Stock Sage 📈
+# Stock Sage 
 
 A machine learning-powered stock price prediction and analysis web application built with Flask and TensorFlow. Stock Sage uses LSTM (Long Short-Term Memory) neural networks to analyze historical stock data and predict future price movements.
 
@@ -168,9 +168,9 @@ Stock Sage/
 
 ## Important Notes
 
-⚠️ **Disclaimer**: Stock predictions are based on historical data and machine learning models. They should not be used as the sole basis for investment decisions. Always do your own research and consult with financial advisors.
+ **Disclaimer**: Stock predictions are based on historical data and machine learning models. They should not be used as the sole basis for investment decisions. Always do your own research and consult with financial advisors.
 
-⚠️ **API Limits**: The Yahoo Finance API has rate limits. Excessive requests may result in temporary blocks.
+ **API Limits**: The Yahoo Finance API has rate limits. Excessive requests may result in temporary blocks.
 
 ## Future Enhancements
 
@@ -196,4 +196,4 @@ For questions or support, please open an issue in the repository.
 
 ---
 
-Made with ❤️ for smarter stock analysis
+Made for smarter stock analysis
